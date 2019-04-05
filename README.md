@@ -5,4 +5,9 @@ A demo project that uses NASA meteorite data to located the nearest meteorite st
 
 This project requires python 3 and the requests package
 
-`python3 meteors.py`
+First, intall pipenv. Then:
+
+```
+pipenv install
+pipenv run "python meteors.py"
+```
